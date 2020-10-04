@@ -10,3 +10,5 @@ Haku.text.dialogue("Text you want to show\n", 50 (*Interval between each charact
 Haku.input.setPrompt("> ") // set the prompt for inputs
 Hake.input.getPrompt() // get the prompt
 Haku.input.get() // Read input
+```
+**More things will be added later**
